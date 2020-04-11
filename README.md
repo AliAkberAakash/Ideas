@@ -5,4 +5,4 @@ Ideas catalogue for new developers and data scientists presented in an Android a
 An idea is like this one:
 Chat-room with fresh topics: Topics would be inferred using topic modeling (unsupervised learning). New topics would be learned from passed discussion for a limited window (say one day).
 
-![](capture2.png)
+![](capture2.png=250x250)
